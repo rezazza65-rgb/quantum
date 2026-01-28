@@ -49,7 +49,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+          # ⚠️ FIX: Removed cache option - no package-lock.json exists
 
       - name: 📦 Install All Dependencies (Enhanced)
         run: |
@@ -300,7 +300,6 @@ jobs:
             2087: 105,  // Cloudflare HTTPS
             2096: 105,  // Cloudflare HTTPS
             8443: 100,  // Alternative HTTPS
-            2096: 95,   // Cloudflare alt
             80: 80,     // HTTP
             2052: 75,   // Cloudflare HTTP
             2082: 75,   // Cloudflare HTTP
