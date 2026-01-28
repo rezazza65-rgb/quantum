@@ -28,7 +28,6 @@ jobs:
     steps:  
       - uses: actions/checkout@v4  
         with:
-          # Use GitHub token with write permissions
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true  
   
@@ -50,12 +49,26 @@ jobs:
           # Get latest version  
           XRAY_VERSION=$(curl -s https://api.github.com/repos/XTLS/Xray-core/releases/latest | grep -Po '"tag_name": "\K.*?(?=")')  
           echo "  → Version: ${XRAY_VERSION}"  
+          
+          # Validate version was retrieved
+          if [ -z "$XRAY_VERSION" ]; then
+            echo "❌ Failed to get Xray version"
+            exit 1
+          fi
             
-          # Download with retry  
-          wget --retry-connrefused --waitretry=1 --read-timeout=20 --timeout=15 --tries=3 \  
-            "https://github.com/XTLS/Xray-core/releases/download/${XRAY_VERSION}/Xray-linux-64.zip" \  
-            -O xray.zip  
+          # Construct download URL
+          DOWNLOAD_URL="https://github.com/XTLS/Xray-core/releases/download/${XRAY_VERSION}/Xray-linux-64.zip"
+          echo "  → Download URL: ${DOWNLOAD_URL}"
+          
+          # Download with retry
+          wget --retry-connrefused --waitretry=1 --read-timeout=20 --timeout=15 --tries=3 "${DOWNLOAD_URL}" -O xray.zip
             
+          # Verify download
+          if [ ! -f xray.zip ]; then
+            echo "❌ Download failed"
+            exit 1
+          fi
+          
           # Extract and install  
           unzip -o xray.zip xray  
           chmod +x xray  
@@ -111,9 +124,7 @@ jobs:
               
             echo "  → Fetching source ${idx}..."  
               
-            if curl -fsSL --retry 3 --connect-timeout 15 --max-time 30 \  
-                 --dns-servers 8.8.8.8,1.1.1.1 \  
-                 "$url" -o "$out" 2>/dev/null; then  
+            if curl -fsSL --retry 3 --connect-timeout 15 --max-time 30 --dns-servers 8.8.8.8,1.1.1.1 "$url" -o "$out" 2>/dev/null; then  
               echo "    ✅ Source ${idx} OK"  
             else  
               echo "    ⚠️  Source ${idx} failed (non-fatal)"  
