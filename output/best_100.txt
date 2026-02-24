@@ -2,6 +2,7 @@ trojan://psycho@104.21.112.1:443/?type=ws&host=pSYcho.sUeX12.IR&path=🔒
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=subhiddify.mmdv2.host&path=🔒
 trojan://auto@104.17.147.22:2087/?type=ws&host=abbas.ab841vp
 trojan://auto@104.17.148.22:2087/?type=ws&host=abbas.ab841vp
+trojan://T9BpZIVMNv@chatgpt.com:8443?type=ws&secu
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?type=ws&s
 trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.96.1:443/?type=ws&host=eee
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivp
@@ -64,8 +65,8 @@ trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443/?type=ws&host=Bl
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.23.115:443/?type=ws&path=🔒
 trojan://8ac9d280-afe3-4389-bc00-25128983a689@104.21.69.44:443/?type=ws&host=ttbi
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443/?type=ws&host=md1.safecd
-trojan://CMLiussss@104.27.195.88:443/?type=ws&host=x
 trojan://CMLiussss@162.159.134.233:443/?type=ws&host=x
+trojan://CMLiussss@104.27.195.88:443/?type=ws&host=x
 trojan://CMLiussss@172.67.193.36:443/?type=ws&host=x
 trojan://NISHIKUITAN111@104.21.84.200:443/?type=ws&host=zb.ylks.xyz&path=🔒
 trojan://NISHIKUITAN222@141.101.120.152:443/?type=ws&host=i
@@ -94,7 +95,6 @@ trojan://auto@104.20.18.119:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.19.25:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.20.150:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.20.162:443/?type=ws&host=b96ef9ae.t
-trojan://auto@104.20.21.229:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.22.111:443/?type=ws&host=b96ef9ae.t
-trojan://auto@104.21.21.129:443/?type=ws&host=t
+trojan://auto@104.20.21.229:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.22.241:443/?type=ws&host=b96ef9ae.t
