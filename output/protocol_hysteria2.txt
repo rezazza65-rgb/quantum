@@ -1,2 +1,1 @@
-hysteria2://3786e67a-41eb-4b92-b31e-417e89493b93@5.83.150.108:54365/?s
-hysteria2://c09f13ce-2cca-49b6-ad1e-597566cc89c6@5.83.150.108:54365/?s
+hysteria2://1ae9f3fa-46a3-4ccf-ac29-990ec9673022@svt1.fq.ito8.com:8080?s
