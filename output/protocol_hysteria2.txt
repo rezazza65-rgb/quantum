@@ -1,2 +1,1 @@
 hysteria2://SNItest@37.18.14.169:443?secu
-hysteria2://SNItest@37.18.14.169:443?i
