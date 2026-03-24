@@ -153,9 +153,9 @@ trojan://blue2024@104.21.70.175:443/?type=ws&path=🔒
 trojan://blue2024@104.25.226.234:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@104.25.235.162:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@104.27.125.51:443/?type=ws&host=hb.lii2010.us.kg&path=🔒
-trojan://blue2024@104.27.65.15:443/?type=ws&host=hb.lii2010.us.kg&secu
-trojan://blue2024@104.27.65.15:443?type=ws&s
 trojan://blue2024@108.162.193.164:443/?type=ws&host=hb.lii2010.us.kg&secu
+trojan://blue2024@104.27.65.15:443?type=ws&s
+trojan://blue2024@104.27.65.15:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@108.162.193.55:443/?type=ws&host=td.p
 trojan://blue2024@108.162.195.155:443/?type=ws&host=tb.p
 trojan://blue2024@162.159.135.218:443/?type=ws&host=ta.p
