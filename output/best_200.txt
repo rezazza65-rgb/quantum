@@ -1,7 +1,7 @@
 trojan://psycho@104.21.112.1:443/?type=ws&host=pSYcho.sUeX12.IR&path=🔒
 trojan://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&host=subhiddify.mmdv2.host&path=🔒
-trojan://auto@104.17.147.22:2087/?type=ws&host=abbas.ab841vp
 trojan://auto@104.17.148.22:2087/?type=ws&host=abbas.ab841vp
+trojan://auto@104.17.147.22:2087/?type=ws&host=abbas.ab841vp
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?type=ws&s
 trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.96.1:443/?type=ws&host=eee
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=Joi
@@ -98,6 +98,7 @@ trojan://auto@104.20.20.162:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.21.229:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.22.111:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.22.241:443/?type=ws&host=b96ef9ae.t
+trojan://auto@104.21.21.129:443/?type=ws&host=t
 trojan://auto@104.21.31.51:443/?type=ws&host=esetsecu
 trojan://auto@104.21.72.108:443/?type=ws&host=esetsecu
 trojan://auto@108.162.195.209:443/?type=ws&host=t
@@ -141,8 +142,8 @@ trojan://blue2024@104.18.216.135:443/?type=ws&host=ha.lii2010.us.kg&secu
 trojan://blue2024@104.18.46.185:443/?type=ws&host=ta.p
 trojan://blue2024@104.18.79.171:443/?type=ws&host=ta.p
 trojan://blue2024@104.19.190.86:443/?type=ws&host=td.p
-trojan://blue2024@104.19.238.216:443/?type=ws&host=ta.p
 trojan://blue2024@104.19.234.198:443/?type=ws&host=ha.lii2010.us.kg&path=🔒
+trojan://blue2024@104.19.238.216:443/?type=ws&host=ta.p
 trojan://blue2024@104.19.242.185:443/?type=ws&host=td.p
 trojan://blue2024@104.19.251.164:443/?type=ws&secu
 trojan://blue2024@104.19.90.210:443/?type=ws&host=hb.lii2010.us.kg&secu
@@ -152,8 +153,8 @@ trojan://blue2024@104.21.70.175:443/?type=ws&path=🔒
 trojan://blue2024@104.25.226.234:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@104.25.235.162:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@104.27.125.51:443/?type=ws&host=hb.lii2010.us.kg&path=🔒
-trojan://blue2024@104.27.65.15:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@104.27.65.15:443?type=ws&s
+trojan://blue2024@104.27.65.15:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@108.162.193.164:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@108.162.193.55:443/?type=ws&host=td.p
 trojan://blue2024@108.162.195.155:443/?type=ws&host=tb.p
@@ -176,8 +177,8 @@ trojan://blue2024@190.93.245.58:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://blue2024@198.41.207.96:443/?type=ws&host=hb.lii2010.us.kg&path=🔒
 trojan://blue2024@198.41.215.238:443/?type=ws&host=hb.lii2010.us.kg&secu
 trojan://c6840587-7ac4-40be-aa4b-ae327eb4fa53@172.67.200.117:443/?type=ws&host=ccdf
-trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443/?type=ws&host=4cbba020.fastpu
 trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.181.193:443/?type=ws&host=EEeEee4.hUA
+trojan://c95a5a3a-5a4c-4ee5-b11a-96f72cf80661@104.26.2.3:443/?type=ws&host=4cbba020.fastpu
 trojan://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@104.21.73.150:443/?type=ws&path=🔒
 trojan://d67cfeaf-b277-44ac-ab99-9dd02a7c5299@172.67.159.56:443/?type=ws&path=🔒
 trojan://da128246-33b0-4c88-a44e-d91e9e0a1e05@104.21.17.127:443/?type=ws&host=x4.859885.xyz&path=🔒
@@ -196,5 +197,4 @@ trojan://tb5PqFczGQ@104.16.83.43:443/?type=ws&host=DieGo.DIEgoMA
 trojan://uV8u9Q41e2@104.17.180.185:443/?type=ws&host=DieGo.DIEgoMA
 trojan://yaml777@104.21.61.73:443/?type=ws&path=🔒
 trojan://yaml777@172.67.207.57:443/?type=ws&host=yaml7.ggff.
-vless://2b9a270f-f3bb-4dbc-9be1-378f93418a41@104.17.148.22:443/?type=ws&e
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443/?type=ws&e
+vless://24159510-d3f9-42db-9bb6-a0b43007b552@188.114.96.3:443?type=ws&path=%252Fapi%252Fv2%252Fdata&host=bup
