@@ -42,16 +42,15 @@ trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.210.210:443/?type=ws&host=1
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?type=ws&s
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@104.21.44.213:443?type=ws&secu
 trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443/?type=ws&host=
-trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443/?type=ws&path=🔒
 trojan://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443/?type=ws&path=🔒
+trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443/?type=ws&path=🔒
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443/?type=ws&host=ba
 trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@172.67.201.36:443/?type=ws&host=ggGGGGgggGGgGggy.FReevPN2026.DpDNS.O
 trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@104.21.86.106:443/?type=ws&path=🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.21.118:443/?type=ws&host=icec
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.152.17:443/?type=ws&host=icec
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.145.239:443/?type=ws&host=icec
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.152.17:443/?type=ws&host=icec
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.68.240:443/?type=ws&host=icec
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@www.epicgames.com:443/?type=ws&host=icec
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.26.69:443/?type=ws&path=🔒
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.63.236:443/?type=ws&path=🔒
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.133.248:443/?type=ws&path=🔒
@@ -66,6 +65,7 @@ trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.155:443/?type=ws&host=Bl
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.23.115:443/?type=ws&path=🔒
 trojan://8ac9d280-afe3-4389-bc00-25128983a689@104.21.69.44:443/?type=ws&host=ttbi
 trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443/?type=ws&host=md1.safecd
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@104.21.50.233:443?type=ws&secu
 trojan://CMLiussss@104.27.195.88:443/?type=ws&host=x
 trojan://CMLiussss@162.159.134.233:443/?type=ws&host=x
 trojan://CMLiussss@172.67.193.36:443/?type=ws&host=x
