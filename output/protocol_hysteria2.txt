@@ -1,1 +1,2 @@
-hysteria2://SNItest@37.18.14.169:443?secu
+hysteria2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@zz.66jc.xyz:20002?i
+hysteria2://6ce63b80-8b5b-11ef-b635-f23c9164ca5d@1088d113-t6pb40-tbac1z-1j3zm.hk2.hyhuawei.com:443?s
