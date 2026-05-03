@@ -1,1 +1,4 @@
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?co
+tuic://ef92641c-c4d9-4b79-94ac-121dd7989d47:ef92641c-c4d9-4b79-94ac-121dd7989d47@108.165.121.116:40000?allow_i
+tuic://f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b:f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b@0e3b9310-tegxs0-twbja8-1hd7v.sjc.oshuawei.com:443?alp
+tuic://28213b50-7ed5-11ee-add6-f23c91369f2d:28213b50-7ed5-11ee-add6-f23c91369f2d@3edd5edb-tegxs0-tqgocx-1plv4.hk2.hyhuawei.com:443?allow_i
