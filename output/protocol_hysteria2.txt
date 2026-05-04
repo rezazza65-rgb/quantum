@@ -1,1 +1,2 @@
-hysteria2://ef92641c-c4d9-4b79-94ac-121dd7989d47@207.174.28.26:51372?i
+hysteria2://9d80dd14-ac44-11ee-a116-f23c9164ca5d@a27b1341-t59gg0-tb74a6-1q9g2.us.hyhuawei.com:443?s
+hysteria2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@zz.66jc.xyz:20003?i
