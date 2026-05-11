@@ -1,1 +1,1 @@
-hysteria2://c357a728-1211-11f0-9a65-f23c9164ca5d@e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com:443?s
+hysteria2://fd224a6c-addc-11ed-a8bf-f23c91cfbbc9@7751b228-t6pb40-t7xcfs-1ldl3.hk2.hyhuawei.com:443?s
