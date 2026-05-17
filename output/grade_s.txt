@@ -1,7 +1,7 @@
-ss://%61fb9d5dd-7096-412%61-%61475-76%61fb4978039@172.66.40.99:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762%3Fed%3D2560&amp;secu
 ss://006741b4-8a77-41f0-80d4-d35e6c2f5825@172.66.40.99:80?path=%2FJoi
-ss://07042893-9818-4eff-89c3-d13339c45faa@188.114.98.112:80?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
+ss://%61fb9d5dd-7096-412%61-%61475-76%61fb4978039@172.66.40.99:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762%3Fed%3D2560&amp;secu
 ss://0836463b-214f-4af6-aa85-85a56a62388e@104.21.32.1:443?e
+ss://07042893-9818-4eff-89c3-d13339c45faa@188.114.98.112:80?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&amp;eh=Sec-WebSocket-P
 ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=%2FvpghRaDdORhcsIFV%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&amp;secu
 ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&amp;secu
@@ -21,7 +21,7 @@ ss://52428b83-b414-4321-8aea-1bd51d68b884@104.21.112.1:80?type=ws&amp;host=joi
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTeleg
 ss://54922e97-046b-40dc-a062-c525eb14540c@172.66.40.99:80?path=%2FJoi
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?e
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?e
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?secu
 ss://5d3a7e3d-6f9f-4b8d-bb4c-5120925c3c16@172.66.40.99:80?path=%2FJoi
 ss://6ec4cb50-6353-4f60-bc9b-624ad418f6c7@172.66.40.99:80?path=%2FJoi
 ss://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3F%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps----%40Rk_Vps&amp;secu
@@ -43,16 +43,12 @@ ss://58f87111-e8fa-4890-ba59-86fca61ccfa9@172.67.65.158:2087?path=/@hopev2
 ss://5a9fa926-1ff7-48fe-e467-5d3e1e3a61b7@172.66.40.99:2095?path=%2F%40Xp
 ss://5c4c509c-6bb6-40db-89b5-5fad287368ed@188.114.98.112:2095?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.250.22:2096?e
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?path=%2F%3Fed&amp;secu
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?secu
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?e
 ss://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?e
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?path=%2Fteleg
-ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;secu
-ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F&amp;secu
 ss://991ef2b8-ab87-4e27-a01e-4f87b82026bc@188.114.98.112:2095?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ciallo-egb.pages.dev:8443?e
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@love.zshabai.top:443?host=2-eox.pages.dev&secu
-vless://f86f5a03-3872-46b5-bf03-a50388a0261d@a1-tss.pages.dev:443?fp=ch
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.16.56:8443?e
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:8443?host=s
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?e
@@ -82,7 +78,6 @@ ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%
 ss://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=%2FdQMN2VQLkaE52qWD%3Fed%3D2560&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443?e
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.67.166.178:443?e
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?path=%2Fp
 ss://321cc007-bb85-41c9-b686-1f45cf5174e0@172.66.45.9:443?path=%2F%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF&amp;secu
 ss://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=%2FeyJqdW5
 ss://39a192ed-7e78-42f4-b956-2f0ea17f677f@108.162.194.99:443?path=%2F
@@ -101,8 +96,7 @@ ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?secu
 ss://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?path=%2Fi
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.12.54:443?e
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?secu
-ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?secu
-ss://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?secu
+ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?e
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.155.197:443?ed=2560&amp;eh=Sec-WebSocket-P
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.58.115:443?ed=2560&amp;eh=Sec-WebSocket-P
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.173.103:443?ed=2560&amp;eh=Sec-WebSocket-P
@@ -118,6 +112,7 @@ ss://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=%2F167.179.110.6
 ss://739b7052-1e58-444d-b068-6cdbbe487663@188.114.97.3:443?path=%2FD7UhD7IgkjUTf9Hl%3Fed%3D2560&amp;secu
 ss://767dfba2-ac34-4507-913d-a70703f81a36@104.21.95.172:443?path=%2F%3Fed%3D2048&amp;secu
 ss://7fcbc02d-6f61-4cdf-a322-b14779cc8b47@Chatgpt.com:443?path=%2Fma
+ss://81fae892-37b3-47d5-d047-b44b3395fa38@s.askkf.com:443/?type=ws&amp;e
 ss://826f524a-cea1-4e44-9b49-3381d13b7593@172.66.46.247:443?path=%2FlaGekhA1Q1IhSqJe&amp;secu
 ss://8495462c-1140-48ac-9331-fdb8e1fde8fe@104.19.129.113:443?path=%2Fzmgbizws&amp;secu
 ss://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?path=%2Fhajmi%3Fed%3D2050&amp;secu
@@ -125,7 +120,6 @@ ss://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2F&amp;secu
 ss://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&amp;secu
 ss://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?secu
 ss://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?secu
-ss://981fca81-5be1-41f8-ac9b-d138e8109943@108.162.196.231:443?allowI
 ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?secu
 ss://1%658db2d7-8900-4233-%61d58-c30043b8%61715@172.66.40.99:8080?path=%2F-L%69%562%72y%40LIGH%54NING6-%54EL--%40LIGH%54NING6-%54EL--%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL-%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL--%40LIGH%54NING6%3Fed%3D2048&amp;secu
 ss://1618024f-7ee0-4355-bdfc-ac49f7ae66a8@172.67.65.158:2087?path=/@hopev2
@@ -136,9 +130,9 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.67.72.191:2096?path=%2F&amp;secu
 ss://3660aeec-1b99-44e0-aeda-7f3f967e9957@CHATGPT.com:2096?path=%2Fws%3Fed%3D2048&amp;secu
 ss://370f6712-c143-48%61b-8974-%61%6135c32%61%61128@172.66.40.99:8080?path=%2F%40u
 ss://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?path=%2F%23teleg
+ss://3f42938e-bb50-4b98-8328-c6f12cdade3e@172.66.40.99:8080?path=%2Fteleg
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096?path=%2F45.76.183.217%3D49292&amp;secu
 ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=%2F45.76.183.217%3D49292&amp;secu
-ss://3f42938e-bb50-4b98-8328-c6f12cdade3e@172.66.40.99:8080?path=%2Fteleg
 ss://4390049a-814c-4a60-a6a5-0ce8d0c87c55@172.66.40.99:8080?path=%2Fteleg
 ss://48d34244-8fac-4fa4-b4fe-0931474f183d@104.21.69.44:2087?path=%2F%23Teleg
 ss://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=%2FlZU7WqWIDqC1jR
