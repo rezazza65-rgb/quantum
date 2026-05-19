@@ -1,2 +1,2 @@
-trojan://acf3f32e-2b46-4535-a068-4bcb6dcb86f8@us200m.jiasu.asia:50000?s
 trojan://GKHWMe2R4qwNcNxu6l3KMkdd@112.166.213.102:16993?secu
+trojan://acf3f32e-2b46-4535-a068-4bcb6dcb86f8@us200m.jiasu.asia:50000?s
