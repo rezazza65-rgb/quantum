@@ -5,11 +5,10 @@ ss://07042893-9818-4eff-89c3-d13339c45faa@172.66.46.246:443?path=%2FELiV2RAY----
 ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gu
 ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&amp;path=%2Fs
 ss://0df8d1c1-f354-46d2-8e12-28fd7a748452@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
-ss://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&amp;secu
-ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?e
 ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?path=%2FbPbqOlkiKh7HD4IR%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&amp;secu
+ss://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&amp;secu
 ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?path=%2FvpghRaDdORhcsIFV%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&amp;secu
-ss://0f1b6d8d-3f8c-4713-b32d-c94947083485@188.114.98.0:443?path=%2F43.218.77.16%3D1443&amp;secu
+ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?e
 ss://0f1b6d8d-3f8c-4713-b32d-c94947083485@chatgpt.com:443?path=%2F43.218.77.16%3D1443&amp;secu
 ss://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=%2Fadmi
 ss://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=%2Fadmi
@@ -64,7 +63,6 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fco
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dza
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?path=%2F%3Fed&amp;secu
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?e
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Teleg
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F&amp;secu
 ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&amp;secu
@@ -78,9 +76,8 @@ ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&amp;path=
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.58.115:443?e
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.17.207:443?host=s
-vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.150.224:443?e
 vless://a6f1755f-0140-4bea-8727-0db1bed7c4df@104.17.156.197:443?host=juzi.qea.ccwu.cc&path=%2F&secu
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@104.17.150.224:443?e
 vless://26524cce-d514-4014-a426-365fb266a14d@104.26.12.27:2053?e
 vless://26524cce-d514-4014-a426-365fb266a14d@162.159.254.137:2053?e
 vless://7f50ec42-4673-41e2-94be-ae6253909def@104.26.5.134:2096?e
-ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;secu
