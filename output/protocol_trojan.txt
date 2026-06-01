@@ -10,3 +10,4 @@ trojan://PtRV8to08i8FMsY.Uw7%3DyMuIaR3eVTGmvA@149.104.87.182:443?secu
 trojan://Z3_%3Dewk_%2Bl1U4OT4usQ5%3Do2vFfk95yfy1V@130.94.97.11:443?secu
 trojan://s.wRSE4ANZp4%3D4h.%3DB_9Qbetw6XUc0V1SV@130.94.107.171:443?secu
 trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?type=
+trojan://433e785b-2077-47f7-a43d-985f63dd18d1@218.152.227.25:12000?secu
