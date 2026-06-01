@@ -1,13 +1,12 @@
 trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.112.200:80?secu
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.119.28:80?secu
 trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.135.199:80?secu
+trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.119.28:80?secu
 trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.176.228:80?secu
 trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.56.54:80?secu
 trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.19.47.96:80?secu
 trojan://f05ee819-5f42-44b6-bd2a-bf4917cbf38e@172.64.35.196:80?secu
 trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?secu
-trojan://PtRV8to08i8FMsY.Uw7%3DyMuIaR3eVTGmvA@149.104.87.182:443?secu
-trojan://Z3_%3Dewk_%2Bl1U4OT4usQ5%3Do2vFfk95yfy1V@130.94.97.11:443?secu
-trojan://s.wRSE4ANZp4%3D4h.%3DB_9Qbetw6XUc0V1SV@130.94.107.171:443?secu
 trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?type=
-trojan://433e785b-2077-47f7-a43d-985f63dd18d1@218.152.227.25:12000?secu
+trojan://PtRV8to08i8FMsY.Uw7%3DyMuIaR3eVTGmvA@149.104.87.182:443?secu
+trojan://s.wRSE4ANZp4%3D4h.%3DB_9Qbetw6XUc0V1SV@130.94.107.171:443?secu
+trojan://Z3_%3Dewk_%2Bl1U4OT4usQ5%3Do2vFfk95yfy1V@130.94.97.11:443?secu
