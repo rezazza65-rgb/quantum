@@ -1,5 +1,7 @@
-trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?secu
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?secu
+trojan://d84665c37878196ecf983cf6910e3b44@18.181.199.223:8066?allow_i
 trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?type=tcp&secu
-trojan://BxceQaOe@140.235.140.105:443?allow_i
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?secu
+trojan://BxceQaOe@95.40.4.37:2520?allow_i
+trojan://BxceQaOe@95.40.68.192:17801?allow_i
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@121.178.83.161:26214?secu
 trojan://433e785b-2077-47f7-a43d-985f63dd18d1@218.152.227.25:12000?secu
