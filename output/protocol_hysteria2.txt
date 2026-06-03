@@ -1,7 +1,6 @@
 hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@108.160.134.123:443?s
 hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@38.54.4.57:443?obfs=salama
 hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@139.84.155.186:443?s
-hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@gy.gotogle.com:443?alp
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?s
 hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@fd.gotogle.com:443?alp
 hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@fd.gotogle.com:443?i
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?s
