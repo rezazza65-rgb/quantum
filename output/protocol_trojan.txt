@@ -1,3 +1,2 @@
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?secu
 trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?secu
-trojan://gcuCpQfaiVeDBdWG@211.76.176.97:19128?s
