@@ -1,12 +1,13 @@
 ss://07042893-9818-4eff-89c3-d13339c45faa@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
 ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gu
+ss://08b006dc-17e4-411d-9528-4369d72ad646@104.18.152.233:443?path=%2Fsg-melbi&amp;secu
 ss://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?path=%2Fsg-o
-ss://0df8d1c1-f354-46d2-8e12-28fd7a748452@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
 ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&amp;path=%2Fs
+ss://0df8d1c1-f354-46d2-8e12-28fd7a748452@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
 ss://0e9dd08d-e341-4c5d-b116-923842f5a9f9@188.114.97.6:443?e
-ss://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&amp;secu
 ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?e
 ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?path=%2FbPbqOlkiKh7HD4IR%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&amp;secu
+ss://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&amp;secu
 ss://0f1b6d8d-3f8c-4713-b32d-c94947083485@chatgpt.com:443?path=%2F43.218.77.16%3D1443&amp;secu
 ss://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=%2Fadmi
 ss://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=%2Fadmi
@@ -44,7 +45,6 @@ ss://31b793bd-e20c-414f-96a6-e3afded9a8a9@188.114.97.6:443?path=%2Fsg-o
 ss://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=%2Fae-bo&amp;secu
 ss://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?e
 ss://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=%2Fid-tksi&amp;secu
-ss://3da2ba86-cad3-4e5d-8096-6887e6d1c112@188.114.97.6:443?e
 ss://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=st
 ss://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&amp;secu
 ss://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=%2Fmy-wbv&amp;secu
@@ -68,6 +68,7 @@ ss://9bab5218-ce9f-4991-9887-8b3605a27d5e@188.114.97.6:443?path=%2Fsg-amz&amp;se
 ss://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&amp;path=%2FTeleg
 ss://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?secu
 ss://9e13716d-c43d-48b3-8cab-65e02d938ab5@chatgpt.com:443?path=%2F&amp;secu
+ss://9f135709-60a1-4a9b-b31c-78d326d8752a@104.18.152.233:443?mode=st
 ss://LomesNet@104.18.32.47:443?path=%2F&amp;secu
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
 ss://042c1f4d-1599-4816-b925-760cdabd5e9a@104.18.32.47:2096?mode=gu
@@ -86,10 +87,7 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=%2F&amp;secu
 ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&amp;secu
 ss://6a719f2b-b629-462d-975a-9c0daa3edb75@chatgpt.com:2083?secu
 ss://777f2e94-0f81-469c-a4a4-cfeb073c20ba@chatgpt.com:2083?path=%2F%3Fed%3D2560&amp;secu
-ss://83a589e2-3680-4bc2-a4e6-ed8f2d2452b4@188.114.97.6:2096?mode=gu
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?path=%2Fteleg
 ss://8c4604ef-749c-4b56-adf1-7da405002a21@172.66.47.69:2053?path=%2F&amp;secu
-ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;secu
 ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F&amp;secu
 ss://3346cea8-e082-4caa-9bd8-87e4588d3431@104.18.32.47:8443?secu
 ss://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2FTel-%40V2
@@ -98,3 +96,5 @@ ss://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:8443?allowI
 ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&amp;path=%2F%3FTELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&amp;secu
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.121.196:443?e
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?e
+ss://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&amp;secu
+ss://%61fb9d5dd-7096-412%61-%61475-76%61fb4978039@172.66.40.99:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762%3Fed%3D2560&amp;secu
