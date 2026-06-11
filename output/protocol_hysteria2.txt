@@ -1,5 +1,5 @@
 hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@38.54.4.57:443?s
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?s
 hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@38.54.4.57:443?i
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?heade
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?s
 hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?s
