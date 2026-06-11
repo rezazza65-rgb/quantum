@@ -1,9 +1,8 @@
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?e
+vless://bb318dc7-f2c9-48f6-ab96-0fc3466b46e9@188.114.97.6:2087?e
 ss://07042893-9818-4eff-89c3-d13339c45faa@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
-ss://08b006dc-17e4-411d-9528-4369d72ad646@104.18.152.233:443?alp
+ss://08b006dc-17e4-411d-9528-4369d72ad646@104.18.152.233:443?path=%2Fsg-melbi&amp;secu
 ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gu
 ss://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?path=%2Fsg-o
-ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&amp;path=%2Fs
 ss://0df8d1c1-f354-46d2-8e12-28fd7a748452@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
 ss://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&amp;secu
 ss://0f0b7f69-78e1-4e9e-8b35-0986444613e4@188.114.97.6:443?e
@@ -23,10 +22,10 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-Y
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-YamYamP
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%40V2
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F&amp;secu
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?e
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-v2
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%40V2
@@ -44,6 +43,7 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.66.40.99:443?path=%2F&amp;secu
 ss://334e484f-7f7c-4895-a6e4-8951de2626f8@188.114.97.6:443?path=%2Fae-bo&amp;secu
 ss://3b01a777-55e7-49f6-8637-d94ee69607c6@188.114.97.6:443?path=%2Fid-tksi&amp;secu
+ss://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&amp;secu
 ss://429f43ca-087a-4fbc-9d88-9d9007bf30bc@188.114.97.6:443?path=%2Fmy-wbv&amp;secu
 ss://4311bd3f-4f66-4538-a624-221b87690b2c@188.114.97.6:443?path=%2Ffl%3Fed%3D2560&amp;secu
 ss://48d98025-1f7d-4039-8c49-035f1510358c@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
@@ -72,10 +72,10 @@ ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
 ss://042c1f4d-1599-4816-b925-760cdabd5e9a@104.18.32.47:2096?mode=gu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D%23%2F%3FJoi
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;secu
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fco
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dza
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fco
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;secu
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fp
 ss://44036b76-ecd4-488b-83ce-108d94583cf3@104.18.32.47:2096?mode=gu
 ss://5c088015-12b9-4eec-86be-f7a9cd0a6c29@188.114.97.6:2087?mode=auto&amp;path=%2F
 ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&amp;secu
@@ -86,5 +86,5 @@ ss://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&amp;path=%
 ss://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2FTel-%40V2
 ss://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2Fs35lt0swufmj96q5%3Fed%3D2560&amp;secu
 ss://7294c217-f682-4119-8bcd-852d8fd0b8bc@188.114.97.6:8443?path=%2F&amp;secu
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?e
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.193.138:443?e
+vless://0c09799a-47ca-494e-a50e-828632ef9d81@199.232.78.159:443?path=/&secu
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?e
