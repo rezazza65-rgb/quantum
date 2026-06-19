@@ -1,11 +1,13 @@
 ss://067bd7a0-2d21-2e81-3fe8-9636ebe223a8@188.114.97.6:443?path=%2Fsy
 ss://07042893-9818-4eff-89c3-d13339c45faa@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
+ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&amp;path=%2Fs
 ss://0df8d1c1-f354-46d2-8e12-28fd7a748452@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
-ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?path=%2FbPbqOlkiKh7HD4IR%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&amp;secu
-ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?e
 ss://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&amp;secu
+ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?e
+ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?path=%2FbPbqOlkiKh7HD4IR%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&amp;secu
 ss://0f1b6d8d-3f8c-4713-b32d-c94947083485@chatgpt.com:443?path=%2F43.218.77.16%3D1443&amp;secu
 ss://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=%2Fadmi
+ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2F
 ss://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=%2Fadmi
 ss://1a6db04f-e089-49d5-8a78-5d362cb9b850@188.114.97.6:443?path=%2Fpath&amp;secu
 ss://284811b1-b4c4-4510-c000-319afe20f97f@188.114.97.6:443?mode=auto&amp;path=%2F&amp;secu
@@ -42,6 +44,7 @@ ss://5590a2f6-9703-4bd9-8861-6bd5d20d93c1@chatgpt.com:443?path=%2F%3Fed%3D2560&a
 ss://58341346-98dd-4094-a26c-c378e86261e1@188.114.97.6:443?path=%2Fi
 ss://5879d109-8c92-448%61-801b-3f3989019934@172.66.40.99:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&amp;secu
 ss://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?path=%2FTeleg
+ss://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed%3D2048&secu
 ss://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?path=%2Faymdlws&amp;secu
 ss://76a556ba-cec0-4323-81d4-546ea40a360c@chatgpt.com:443?path=%2Fatom88%3Fed%3D2560&secu
 ss://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?path=%2Fteleg
@@ -61,12 +64,10 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dza
 ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&amp;secu
 ss://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshala
-ss://777f2e94-0f81-469c-a4a4-cfeb073c20ba@chatgpt.com:2083?path=%2F%3Fed%3D2560&amp;secu
 ss://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2FTel-%40V2
 ss://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2Fs35lt0swufmj96q5%3Fed%3D2560&amp;secu
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.19.87.194:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.24.9.6:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.43.131:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.49.145:443?e
-ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&amp;path=%2Fs
 vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?e
