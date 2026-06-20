@@ -1,11 +1,11 @@
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?obfs=salama
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?s
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443/?obfs=salama
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?i
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443/?obfs=salama
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?s
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?obfs=salama
 hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?secu
-hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salama
-hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443?s
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443?allowI
+hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443?s
+hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salama
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@104.168.76.175:443?s
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@150.129.10.140:443?s
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@88.151.33.158:443?s
