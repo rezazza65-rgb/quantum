@@ -14,8 +14,8 @@ ss://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=%2Fadmi
 ss://1a6db04f-e089-49d5-8a78-5d362cb9b850@188.114.97.6:443?path=%2Fpath&amp;secu
 ss://284811b1-b4c4-4510-c000-319afe20f97f@188.114.97.6:443?mode=auto&amp;path=%2F&amp;secu
 ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=%2F&amp;secu
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?e
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-Y%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-YamYamP
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%40V2
@@ -42,9 +42,9 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.66.40.99:443?path=%2F&amp;secu
 ss://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@chatgpt.com:443?path=%2Fvless-tls&amp;secu
 ss://48d98025-1f7d-4039-8c49-035f1510358c@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.112.1:443?path=%2FTeleg
+ss://5590a2f6-9703-4bd9-8861-6bd5d20d93c1@chatgpt.com:443?path=%2F%3Fed%3D2560&amp;secu
 ss://58341346-98dd-4094-a26c-c378e86261e1@188.114.97.6:443?path=%2Fi
 ss://5879d109-8c92-448%61-801b-3f3989019934@172.66.40.99:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&amp;secu
 ss://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?path=%2FTeleg
 ss://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&secu
 ss://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?path=%2Faymdlws&amp;secu
-ss://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?path=%2Fteleg
