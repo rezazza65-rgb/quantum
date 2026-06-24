@@ -39,7 +39,6 @@ ss://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=st
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dza
-ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&amp;secu
 ss://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshala
 ss://777f2e94-0f81-469c-a4a4-cfeb073c20ba@chatgpt.com:2083?path=%2F%3Fed%3D2560&amp;secu
 ss://79c640cf-4bce-4cac-a77b-ec40adaa12b1@188.114.97.6:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;secu
@@ -47,4 +46,5 @@ vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.19.87.194:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.24.9.6:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.43.131:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.49.145:443?e
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.16.72.251:443?e
+vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@104.19.47.188:8443?e
+ss://%61fb9d5dd-7096-412%61-%61475-76%61fb4978039@172.66.40.99:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762%3Fed%3D2560&amp;secu
