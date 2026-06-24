@@ -33,8 +33,8 @@ ss://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?path=%2Fteleg
 ss://7cd519e5-7626-4e40-878a-b7b753c344c9@188.114.97.6:443?path=%2F&amp;secu
 ss://85dcf0fd-2652-467b-b8fd-0970d64ec932@188.114.97.6:443?mode=auto&amp;path=%2Fapi%2FV4&amp;secu
 ss://8a07740f-b932-4372-a3a2-ed91f184cd33@chatgpt.com:443?path=%2FeyJqdW5
+ss://991ef2b8-ab87-4e27-a01e-4f87b82026bc@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?path=%2FTeleg
-ss://9e13716d-c43d-48b3-8cab-65e02d938ab5@chatgpt.com:443?path=%2F&amp;secu
 ss://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=st
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fp
@@ -46,4 +46,6 @@ vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.19.87.194:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.24.9.6:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.43.131:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.49.145:443?e
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?host=octopusss5.i
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.158.218:2087?fp=ch
 vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@104.19.47.188:8443?e
