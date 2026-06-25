@@ -1,5 +1,10 @@
+ss://07042893-9818-4eff-89c3-d13339c45faa@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
+ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=%2Fca-cl&secu
 ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=/ca-cl&secu
+ss://0df8d1c1-f354-46d2-8e12-28fd7a748452@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
 ss://0eb7bd8a-dc6e-4042-968f-70bcffc976c6@chatgpt.com:443?path=%2F&amp;secu
+ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&amp;path=%2Fs
+ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?path=%2FbPbqOlkiKh7HD4IR%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&amp;secu
 ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?e
 ss://0f1b6d8d-3f8c-4713-b32d-c94947083485@chatgpt.com:443?path=%2F43.218.77.16%3D1443&amp;secu
 ss://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=%2Fadmi
@@ -16,8 +21,15 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?secu
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-v2
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%40V2
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fvp
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fp
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%3Dza
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F%3F---p
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F%3FJoi
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3DJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3Dza
@@ -31,8 +43,8 @@ ss://58341346-98dd-4094-a26c-c378e86261e1@188.114.97.6:443?path=%2Fi
 ss://5879d109-8c92-448%61-801b-3f3989019934@172.66.40.99:443?path=%2F%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y---%54%65l%65g%72%61m-%58%562%72%61y%3Fed%3D2048&amp;secu
 ss://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?path=%2FTeleg
 ss://5b9503aa-119b-4288-aa4f-0bbee2b4d5af@188.114.97.6:443?path=%2F%3Fed&amp;secu
-ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fp
 ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?Teleg
+ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fp
 ss://7270612b-49f6-4b04-999c-34d8263da767@188.114.97.6:443?path=%2Faymdlws&amp;secu
 ss://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?path=%2Fteleg
 ss://7cd519e5-7626-4e40-878a-b7b753c344c9@188.114.97.6:443?path=%2F&amp;secu
@@ -60,9 +72,3 @@ ss://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=%2Fs35lt0swufmj9
 ss://79c640cf-4bce-4cac-a77b-ec40adaa12b1@188.114.97.6:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;secu
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.19.87.194:443?e
 vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.43.131:443?e
-vless://407ecce0-dc85-465f-89f5-e520e9378baf@104.24.9.6:443?e
-vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.49.145:443?e
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?host=octopusss5.i
-ss://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&amp;path=%2Fs
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.158.218:2087?fp=ch
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@104.19.47.188:8443?e
