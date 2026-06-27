@@ -5,6 +5,7 @@ ss://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=%2Fadmi
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2F
 ss://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=%2Fadmi
 ss://1a6db04f-e089-49d5-8a78-5d362cb9b850@188.114.97.6:443?path=%2Fpath&amp;secu
+ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=%2F&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-Y%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-YamYamP
