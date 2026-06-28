@@ -53,7 +53,6 @@ ss://8a07740f-b932-4372-a3a2-ed91f184cd33@chatgpt.com:443?path=%2FeyJqdW5
 ss://94b1665f-67ae-4afa-aecc-8921a2ba8f81@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://991ef2b8-ab87-4e27-a01e-4f87b82026bc@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?path=%2FTeleg
-ss://9e13716d-c43d-48b3-8cab-65e02d938ab5@chatgpt.com:443?path=%2F&amp;secu
 ss://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=st
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoi
@@ -98,3 +97,4 @@ ss://54922e97-046b-40dc-a062-c525eb14540c@172.66.40.99:80?path=%2FJoi
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?e
 ss://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.52:443?secu
 ss://5d3a7e3d-6f9f-4b8d-bb4c-5120925c3c16@172.66.40.99:80?path=%2FJoi
+ss://659a9075-d5ab-4fd2-bf34-b37043fae832@108.162.194.135:443?path=%2Fp

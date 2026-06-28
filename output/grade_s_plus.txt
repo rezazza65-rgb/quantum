@@ -53,7 +53,6 @@ ss://8a07740f-b932-4372-a3a2-ed91f184cd33@chatgpt.com:443?path=%2FeyJqdW5
 ss://94b1665f-67ae-4afa-aecc-8921a2ba8f81@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://991ef2b8-ab87-4e27-a01e-4f87b82026bc@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?path=%2FTeleg
-ss://9e13716d-c43d-48b3-8cab-65e02d938ab5@chatgpt.com:443?path=%2F&amp;secu
 ss://9f135709-60a1-4a9b-b31c-78d326d8752a@188.114.97.6:443?mode=st
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoi
