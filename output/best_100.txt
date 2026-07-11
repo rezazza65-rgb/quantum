@@ -1,5 +1,5 @@
-ss://--DIGIV2RAY--@190.93.247.155:443?mode=gu
 ss://--DIGIV2RAY--@198.41.202.5:443?mode=gu
+ss://--DIGIV2RAY--@190.93.247.155:443?mode=gu
 ss://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443/?type=ws&e
 ss://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?e
 ss://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443?path=%2F%3FJoi
@@ -14,8 +14,8 @@ ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.101:443?path=%2Fca-cl&amp;se
 ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.41:443?e
 ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.41:443?path=%2Fca-cl&amp;secu
 ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=%2Fca-cl&amp;secu
-ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=%2Fau-do&amp;secu
 ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.18.153.10:443?path=%2Fca-cl&amp;secu
+ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=%2Fau-do&amp;secu
 ss://0df8d1c1-f354-46d2-8e12-28fd7a748452@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
 ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?e
 ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?path=%2FbPbqOlkiKh7HD4IR%2FMzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE%3D%3Fed%3D2560&amp;secu
@@ -42,8 +42,8 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-v
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%40V2
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fvp
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fp
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F%3F---p
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F%3FJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&amp;secu
@@ -84,7 +84,7 @@ ss://94b1665f-67ae-4afa-aecc-8921a2ba8f81@172.66.46.246:443?path=%2FELiV2-RAY---
 ss://991ef2b8-ab87-4e27-a01e-4f87b82026bc@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?path=%2FTeleg
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
-ss://----DIGIV2RAY@198.41.202.5:2087?path=/DigiV?ed=2048&secu
+ss://----DIGIV2RAY@198.41.202.5:2087/?type=ws&e
 ss://----DIGIV2RAY@190.93.247.155:2087?path=/DigiV?ed=2048&secu
 ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?e
 ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?path=%2Fp
@@ -96,5 +96,5 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D%23%2F%3FJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fco
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%3Dza
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fp
