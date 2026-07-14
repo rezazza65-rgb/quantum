@@ -22,8 +22,8 @@ ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.2:443?path=%2F
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2F
 ss://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=%2Fadmi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?e
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-Y%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;secu
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-Y%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-YamYamP
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%40V2
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F&amp;secu
@@ -59,13 +59,13 @@ ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=%2Fp
 ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fp
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=%2Fsg-amz&amp;secu
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2082&amp;secu
-ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt%3Fed%3D2082&amp;secu
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt&amp;secu
+ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt%3Fed%3D2082&amp;secu
 ss://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=%2Fcbasu
 ss://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?path=%2Fteleg
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2F
-ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?secu
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2F
+ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?secu
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=%2F
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.50:443?e
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.70:443?path=%2F
@@ -77,8 +77,8 @@ ss://94b1665f-67ae-4afa-aecc-8921a2ba8f81@172.66.46.246:443?path=%2FELiV2-RAY---
 ss://991ef2b8-ab87-4e27-a01e-4f87b82026bc@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?path=%2FTeleg
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
+ss://----DIGIV2RAY@198.41.202.5:2087/?type=ws&e
 ss://----DIGIV2RAY@190.93.247.155:2087?path=/DigiV?ed=2048&secu
-ss://----DIGIV2RAY@198.41.202.5:2087?path=%2FDigiV%3Fed%3D2048&secu
 ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.2:2096?path=%2Fp
 ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoi
