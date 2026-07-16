@@ -1,6 +1,6 @@
 ss://067bd7a0-2d21-2e81-3fe8-9636ebe223a8@188.114.97.6:443?path=%2Fsy
-ss://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=%2Fodiyfws&amp;secu
 ss://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.148.22:443?path=%2Fodiyfws&amp;secu
+ss://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.22:443?path=%2Fodiyfws&amp;secu
 ss://0836463b-214f-4af6-aa85-85a56a62388e@104.17.147.22:443?e
 ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gu
 ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=%2Fca-cl&amp;secu
@@ -18,7 +18,7 @@ ss://1864a6c0-2f6e-4481-8fdb-8e54db6d0aa2@104.18.32.47:443?path=%2Fhalfway&amp;s
 ss://1c0abb34-4313-4acb-993d-62bf52eace71@104.16.72.41:443?path=%2F&amp;secu
 ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@104.17.148.22:443?secu
 ss://284811b1-b4c4-4510-c000-319afe20f97f@188.114.97.6:443?mode=auto&amp;path=%2F&amp;secu
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;secu
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?e
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-Y%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-YamYamP
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%40V2
@@ -28,7 +28,7 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fvp
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fp
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3DJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?secu
@@ -94,7 +94,6 @@ ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&amp;path=
 ss://79c640cf-4bce-4cac-a77b-ec40adaa12b1@188.114.97.6:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;secu
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:8443?secu
 ss://%61fb9d5dd-7096-412%61-%61475-76%61fb4978039@172.66.40.99:80?path=%2FMos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762---Mos%69%762--Mos%69%762%3Fed%3D2560&amp;secu
-ss://006741b4-8a77-41f0-80d4-d35e6c2f5825@172.66.40.99:80?path=%2FJoi
 ss://07042893-9818-4eff-89c3-d13339c45faa@172.66.46.246:443?path=%2FELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&amp;secu
 ss://073d1d50-8478-47bf-a828-7a1b381931d5@172.64.32.75:443?e
 ss://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?path=%2Fodiyfws&amp;secu
@@ -113,7 +112,7 @@ ss://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=%2F%3Fed&amp;secu
 ss://210bf2be-9880-48f5-b8ec-0be15c31b5ba@190.93.246.241:443/?type=g
 ss://222b77d7-6480-4d9f-a9cb-ac9f1bc47783@172.66.40.99:80?path=%2FJoi
 ss://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@162.159.152.4:443?path=%2FeyJqdW5
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?e
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?e
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2F%3FTELEGRAM-v2
@@ -122,7 +121,7 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F%3F---p
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F%3FJoi
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2F&amp;secu
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fp
 ss://3743c683-a48f-4a39-a904-2467f23d88fb@172.66.40.99:80?type=ws&host=a.joI
 ss://396c904b-4b62-4334-b793-ee25fc0c61cc@162.159.152.4:443?path=%2FeyJqdW5
 ss://3c671527-9db6-4552-91af-cb7b6d95a7e0@190.93.246.241:443/?type=g
@@ -135,9 +134,9 @@ ss://4dc1192f-93e9-4bce-8018-e5d2de0ef2df@162.159.152.4:443?path=%2Ft6l3wjpc4dv
 ss://4dc1192f-93e9-4bce-8018-e5d2de0ef2df@chatgpt.com:443?path=%2Ft6l3wjpc4dv
 ss://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?e
 ss://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?path=%2Fpoiuyws&amp;secu
-ss://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?path=%2Fpoiuyws&secu
 ss://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?path=%2Fpoiuyws&amp;secu
 ss://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@173.245.58.75:443?path=%2Fpoiuyws&secu
+ss://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@172.64.32.75:443?path=%2Fpoiuyws&secu
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTeleg
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2Fteleg
 ss://54922e97-046b-40dc-a062-c525eb14540c@172.66.40.99:80?path=%2FJoi
@@ -161,8 +160,8 @@ ss://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=%2Fcbasu
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.18.153.10:443?path=%2F
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?path=%2F
 ss://860d8f27-ed60-4791-b6a0-e1e471d7ee6d@104.18.32.47:80?path=%2F%3Fed&amp;secu
-ss://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?path=%2F%3Fed%3D2048&amp;secu
 ss://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.3:443/?type=ws&amp;e
+ss://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?path=%2F%3Fed%3D2048&amp;secu
 ss://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.3:443?path=%2F%3Fed%3D2048&amp;secu
 ss://893096ae-ed76-4440-bc34-f77c4872540f@188.114.96.3:443?alp
 ss://893096ae-ed76-4440-bc34-f77c4872540f@188.114.96.3:443?path=%2FeyJqdW5
@@ -178,16 +177,16 @@ ss://991ef2b8-ab87-4e27-a01e-4f87b82026bc@172.66.46.246:443?path=%2FELiV2-RAY---
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=%2Fteleg
 ss://03633612-cb32-46cc-8f93-7103d1511adc@104.17.148.22:2095?path=%2F%3Fed%3D2048&amp;secu
 ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?path=%2Fp
-ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?path=%2Fp
 ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.2:2096?path=%2Fp
 ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.41:2096?path=%2Fp
-ss://0702b8f3-2ab8-4a5f-ba7a-7f1097978f27@104.17.148.22:2082?secu
+ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?path=%2Fp
 ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.18.153.10:2096?path=%2Fp
+ss://0702b8f3-2ab8-4a5f-ba7a-7f1097978f27@104.17.148.22:2082?secu
 ss://12345678-1234-1234-1234-123456789123@162.159.152.4:2096?path=%2Fs
 ss://1575984a-2343-44dc-92b4-c3d10aeaed2a@190.93.246.241:2096/?type=g
 ss://1642d104-816a-4a12-afd3-d54f7e2e0393@chatgpt.com:2083?path=%2F&amp;secu
 ss://224162a4-659e-4644-9cb4-8024c6dda3c5@162.159.152.4:2096?mode=auto&amp;path=%2F&amp;secu
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path=%3Dza
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D%23%2F%3FJoi
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&amp;secu
@@ -197,4 +196,5 @@ ss://5a9fa926-1ff7-48fe-e467-5d3e1e3a61b7@172.66.40.99:2095?path=%2F%40Xp
 ss://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.98.0:2096?path=%2F%3Fed%3D2560%26Teleg
 ss://661994e2-a56d-4f70-be54-ad15cd70d0a6@104.18.26.90:2083?path=%2F&amp;secu
 ss://6858e872-f990-4cb8-8fd6-3a99359a509d@104.17.147.22:2052?secu
-ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&amp;secu
+ss://756e8f39-04e8-436d-b5c6-905d37d9562c@188.114.96.3:2087?e
+ss://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?secu
