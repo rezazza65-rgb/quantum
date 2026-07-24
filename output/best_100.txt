@@ -25,8 +25,8 @@ ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fvp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3DJoi
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?secu
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%3Dza
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.66.40.99:443?path=%2F&amp;secu
 ss://3a8aa3ad-d125-4285-8542-3a1832187f5d@188.114.97.6:443?e
 ss://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@104.16.72.41:443?path=%2Fpoiuyws&secu
@@ -44,8 +44,8 @@ ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?path=%2Fp
 ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.2:443?path=/p
 ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=%2Fp
 ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fp
-ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=%2Fsg-amz&amp;secu
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2082&amp;secu
+ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=%2Fsg-amz&amp;secu
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt%3Fed%3D2082&amp;secu
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt&amp;secu
 ss://6d5ac7a8-3e10-4cda-9258-531213d4080f@104.18.32.47:443?path=%2FN65elpheeeq
