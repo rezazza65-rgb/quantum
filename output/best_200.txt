@@ -80,9 +80,8 @@ ss://3806606a-82d0-4c7f-907a-9e040088e1b2@104.16.72.70:2087?mode=auto&amp;path=%
 ss://44036b76-ecd4-488b-83ce-108d94583cf3@104.18.32.47:2096?mode=gu
 ss://4568d3b9-b921-464f-f622-72cc2c8f6754@190.93.246.241:2083/?type=g
 ss://485c1f72-90bd-4eb1-a692-c3d5eeccec12@190.93.246.241:2096/?type=g
-ss://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&amp;secu
-ss://%40V2XNET@162.159.38.119:8443?mode=auto&amp;path=%2F&amp;secu
 ss://%40V2XNET@162.159.38.119:8443?e
+ss://%40V2XNET@162.159.38.119:8443?mode=auto&amp;path=%2F&amp;secu
 ss://2179012d-4aa6-4acd-9e67-be80d8a63486@104.16.72.70:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;secu
 ss://539dccf8-7ad6-4787-bb6c-c416b896ecaf@104.16.72.70:8443?allowI
 ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&amp;path=%2F%3FTELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&amp;secu
@@ -198,3 +197,4 @@ ss://9a39f63e-28c8-4560-af18-b01b9916ef1b@www.visa.com.sg:8443?type=ws&amp;e
 ss://09a54735-f680-425f-a180-59e65d50e5df@172.66.40.99:8880?path=%2FTeleg
 ss://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=%2FTeleg
 ss://57147109-749f-4c9b-c6b3-2dce03f0466f@104.17.148.22:8880?type=httpupg
+ss://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.147.22:8880?path=%2F&amp;secu
