@@ -9,12 +9,13 @@ ss://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gu
 ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.16.72.70:443?path=%2Fca-cl&amp;secu
 ss://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@162.159.38.119:443?path=%2Fau-do&amp;secu
 ss://1127fc22-993c-420b-897e-38b1dd21b629@172.66.40.99:443?path=%2Fadmi
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?e
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?path=%2F
+ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?e
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?path=%2F
 ss://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=%2Fadmi
 ss://1864a6c0-2f6e-4481-8fdb-8e54db6d0aa2@104.18.32.47:443?path=%2Fhalfway&amp;secu
 ss://1a0509ce-31e5-c439-40d8-c80500000000@104.17.148.22:443?path=%2Fv2box&amp;secu
+ss://284811b1-b4c4-4510-c000-319afe20f97f@188.114.97.6:443?mode=auto&amp;path=%2F&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-Y%3Fed%3D512&amp;secu
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=%2F%3FTELEGRAM-YamYamP
@@ -40,7 +41,6 @@ ss://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?path=%2FTeleg
 ss://5e0212f0-297f-4f68-a256-013466bab0d2@188.114.97.6:443?secu
 ss://60309603-4cf6-41c4-828a-03ea69d32688@104.18.32.47:443?path=%2Flj77F76UJ4fbjKcT%3Fed%3D2560&amp;secu
 ss://61fc8051-06d6-4256-8425-320c047fc739@104.17.148.22:443?mode=auto&path=%2F&secu
-ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?path=%2Fp
 ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?path=%2Fp
 ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=%2Fp
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@162.159.38.119:443?path=%2Fau-mt%3Fed%3D2082&amp;secu
@@ -71,8 +71,8 @@ ss://44036b76-ecd4-488b-83ce-108d94583cf3@104.18.32.47:2096?mode=gu
 ss://4568d3b9-b921-464f-f622-72cc2c8f6754@190.93.246.241:2083/?type=g
 ss://485c1f72-90bd-4eb1-a692-c3d5eeccec12@190.93.246.241:2096/?type=g
 ss://%40V2CONFIGPRO@162.159.38.119:8443?mode=auto&amp;path=%2F&amp;secu
-ss://%40V2XNET@162.159.38.119:8443?mode=auto&amp;path=%2F&amp;secu
 ss://%40V2XNET@162.159.38.119:8443?e
+ss://%40V2XNET@162.159.38.119:8443?mode=auto&amp;path=%2F&amp;secu
 ss://2179012d-4aa6-4acd-9e67-be80d8a63486@104.16.72.70:8443?mode=auto&amp;path=%2F%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-&amp;secu
 ss://539dccf8-7ad6-4787-bb6c-c416b896ecaf@104.16.72.70:8443?allowI
 ss://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?mode=auto&amp;path=%2F%3FTELEGRAM_JOIN_JKVPN_JKVPN_JKVPN_JKVPN&amp;secu
