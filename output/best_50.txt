@@ -1,17 +1,15 @@
-trojan://psycho@104.21.112.1:443/?type=ws&host=pSYcho.sUeX12.IR&path=%2Ft
 trojan://auto@104.17.147.22:2087/?type=ws&host=abbas.ab841vp
 trojan://auto@104.17.148.22:2087/?type=ws&host=abbas.ab841vp
+trojan://MITIVPN@104.17.148.22:8443?type=ws&host=meh
 trojan://MITIVPN@104.17.148.22:8443?type=ws&host=MiTiVPN---MiTiVPN-7.ki
 trojan://MITIVPN@104.17.148.22:8443?type=ws&host=puuy-meh
 trojan://MITIVPN@104.17.148.22:8443?type=ws&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa&secu
-vmess://eyJhZGQiOiIxMDQuMTcuMjMyLjExNCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczUxMDY4IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pqU77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxMDQuMjQuMjU1LjE5MSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczEzODg5IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pqZ77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxMDQuMjcuMjAzLjE2OSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczUxMDY4IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pmg77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxNzIuNjcuMTM1LjE5NSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczUxMDY4IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4oyo77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiIxMDQuMjUuMTg4LjEyNiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczEzODg5IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4puT77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiIxNDEuMTAxLjExNC4zMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0EyREpPUEZUIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pqU77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?type=ws&s
-trojan://MiTiVPN@104.18.6.178:443?type=ws&secu
 trojan://MiTiVPN@188.114.97.6:443?type=ws&secu
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivp
+trojan://psycho@104.21.112.1:443/?type=ws&host=pSYcho.sUeX12.IR&path=%2Ft
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=Joi
 trojan://03c93f49-d573-4889-a4bb-187047c5a314@104.21.71.83:443/?type=ws&host=M7Yyu.777162.xYZ&path=%2FRij8gsblmlf
 trojan://049b291e-5752-448c-9b9d-92c7ea45611f@104.21.24.172:443/?type=ws&host=xsdcf
@@ -28,8 +26,8 @@ trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.75.120:443/?type=ws&host=i
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.175.148:443/?type=ws&host=i
 trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@172.67.188.77:443/?type=ws&path=%2Fl6lvY4hFZ
 trojan://1710442808@188.114.98.0:443?type=ws&secu
-trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443/?type=ws&host=cvfgt
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443/?type=ws&host=cvfgt
+trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.29.205:443/?type=ws&host=cvfgt
 trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@104.18.32.69:443/?type=ws&host=poORiaReD--PE
 trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@104.21.84.58:443/?type=ws&path=%2FbdtuD5eD7Q29WxRG8DqNAB&secu
 trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=ws&path=%2F
@@ -48,3 +46,5 @@ trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.204.22:443/?type=ws&path=%2
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.210.210:443/?type=ws&host=1cc.852224.ggff.
 trojan://559c3b5f-3dd1-47e4-94ad-017cb392a7ba@104.26.8.202:443?type=ws&s
 trojan://6040a753-e35b-4384-8713-96f3c639b621@104.21.21.226:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&secu
+trojan://6040a753-e35b-4384-8713-96f3c639b621@172.67.200.238:443/?type=ws&path=%2FWxWOWO1YA9bs2HOmaeWimvT3&secu
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443/?type=ws&host=ba
