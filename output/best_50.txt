@@ -41,10 +41,10 @@ ss://61fc8051-06d6-4256-8425-320c047fc739@104.17.148.22:443?mode=auto&path=%2F&s
 ss://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?path=%2Fteleg
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?path=%2F
 ss://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.2:443?secu
+ss://862619ff-2139-45fd-8413-af83f98e2880@162.159.38.119:443?path=%2F----MXGRiD----&amp;secu
 ss://94b1665f-67ae-4afa-aecc-8921a2ba8f81@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://991ef2b8-ab87-4e27-a01e-4f87b82026bc@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;secu
 ss://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?path=%2FTeleg
 ss://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Fteleg
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path=%2Fp
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path=%3Dza
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoi
