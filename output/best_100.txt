@@ -1,16 +1,11 @@
 trojan://MiTiVPN@104.17.148.22:443?type=ws&secu
 trojan://auto@104.17.148.22:2087/?type=ws&host=abbas.ab841vp
-vmess://eyJhZGQiOiIxMDQuMTcuMjMyLjExNCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczUxMDY4IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4oyo77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxMDQuMTcuOTUuNCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczEzODg5IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pmj77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxMDQuMTcuOTUuNCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzczEzODg5IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pqZ77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxNDEuMTAxLjExNC4zMiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMTdiMmEzMTMtMzdhMC00OTQ1LWE4ZTQtZTYzMzc1NTA2YjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0EyREpPUEZUIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pqhIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxOTAuOTMuMjQ2LjE5NSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDYxMjYxOGMtMjRjZC00Mzc5LTk5MjQtY2ZkZjNkNjFmYTVhIiwibmV0Ijoid3MiLCJwYXRoIjoiL0lZS0xENTNNIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pmg77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxNzIuNjcuMTY5LjEzMSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYzVhMmQ3YjgtYmY4NC00Zjk3LTg1NzctYjliODdmMmJhYWY3IiwibmV0Ijoid3MiLCJwYXRoIjoiL0FVSUtOOEFVIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pqZ77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 trojan://1710442808@188.114.98.0:443?type=ws&secu
 trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?type=ws&s
 trojan://Xa4%5El(%3B.%3BB%23a@104.18.26.90:443/?type=ws&host=s1.mitivp
 trojan://psycho@104.21.112.1:443/?type=ws&host=pSYcho.sUeX12.IR&path=%2Ft
 trojan://auto@104.17.147.22:2087/?type=ws&host=abbas.ab841vp
+vmess://eyJhZGQiOiIxODguMTE0Ljk2LjYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjViMGE0ODllLWU5ZWItNDFiMS05MDJlLWQ0YWNhZDY2N2JhNiIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg4pqU77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443/?type=ws&host=Joi
 trojan://03c93f49-d573-4889-a4bb-187047c5a314@104.21.71.83:443/?type=ws&host=M7Yyu.777162.xYZ&path=%2FRij8gsblmlf
 trojan://049b291e-5752-448c-9b9d-92c7ea45611f@104.21.24.172:443/?type=ws&host=xsdcf
@@ -83,8 +78,8 @@ trojan://WOeXShhJpL@104.17.49.240:443/?type=ws&host=09jzus.zdzdzd.xyz&path=%2Fju
 trojan://WOeXShhJpL@104.17.8.124:443/?type=ws&host=10jzus.zdzdzd.xyz&path=%2Fjuzigo
 trojan://WOeXShhJpL@104.18.183.139:443/?type=ws&host=08jzus.zdzdzd.xyz&path=%2Fjuzigo
 trojan://WOeXShhJpL@104.18.71.140:443/?type=ws&host=09jzus.zdzdzd.xyz&path=%2Fjuzigo
-trojan://WOeXShhJpL@172.67.232.40:443/?type=ws&host=10jzus.zdzdzd.xyz&path=%2Fjuzigo
 trojan://WOeXShhJpL@104.21.19.243:443/?type=ws&host=06jzus.zdzdzd.xyz&path=%2Fjuzigo
+trojan://WOeXShhJpL@172.67.232.40:443/?type=ws&host=10jzus.zdzdzd.xyz&path=%2Fjuzigo
 trojan://WOeXShhJpL@172.67.67.64:443/?type=ws&host=09jzus.zdzdzd.xyz&path=%2Fjuzigo
 trojan://a0514d9b-d109-47fd-b173-1e7f83268f21@104.16.183.101:443/?type=ws&path=%2Fupdate&secu
 trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@104.21.88.37:443/?type=ws&host=xxcdvfghyuiop.999165.xyz&path=%2FmFvK3LJyIAe8ydv
@@ -98,3 +93,8 @@ trojan://auto@104.18.1.89:443/?type=ws&host=joi
 trojan://auto@104.20.17.176:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.18.119:443/?type=ws&host=b96ef9ae.t
 trojan://auto@104.20.19.25:443/?type=ws&host=b96ef9ae.t
+trojan://auto@104.20.20.150:443/?type=ws&host=b96ef9ae.t
+trojan://auto@104.20.20.162:443/?type=ws&host=b96ef9ae.t
+trojan://auto@104.20.21.229:443/?type=ws&host=b96ef9ae.t
+trojan://auto@104.20.22.111:443/?type=ws&host=b96ef9ae.t
+trojan://auto@104.20.22.241:443/?type=ws&host=b96ef9ae.t
