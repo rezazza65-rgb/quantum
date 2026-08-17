@@ -1,1 +1,1 @@
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?co
+tuic://fa0f1a88-70d9-45b2-a51d-c56cc252cd6d:giBv2JToqH@107.172.243.149:8443?allow_i
